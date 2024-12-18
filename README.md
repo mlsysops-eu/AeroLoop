@@ -128,7 +128,7 @@ $ sudo ./rover_net_conf.sh (for the vRover)
 $ cd aeroloop/apm_params
 $ cp *  ~/ ardupilot
 ```
-NS - simulation configuration
+### NS - simulation configuration
 Clone the AeroLoop software stack and configure the network interfaces.
 ```bash
 $ git clone https://github.com/mlsysops-eu/AeroLoop.git
