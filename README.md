@@ -222,5 +222,5 @@ The RSTP links for the (virtual) camera streams of the two vehicles are shown be
 You can connect and receive to these streams using any standard media player like [VLC](https://www.videolan.org/).
 
 ## Contact information
-For more information, please send a mail to Foivos Pournaropoulos: <mailto: spournar@uth.gr>.
+For more information, please send a mail to Foivos Pournaropoulos: spournar@uth.gr.
 
